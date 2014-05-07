@@ -1,6 +1,6 @@
 test
 ====
 
-Test project
+This is a test project...
 
 Nothing very useful here!
