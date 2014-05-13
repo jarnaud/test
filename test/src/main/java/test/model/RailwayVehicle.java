@@ -1,5 +1,10 @@
 package test.model;
 
+/**
+ * 
+ * @author Jean Arnaud
+ *
+ */
 public abstract class RailwayVehicle extends Vehicle {
 
 	/**
